@@ -4,7 +4,7 @@ A water cooled version of an all-metal extruder utilising the HGX 2.0 gearset th
 ![](https://github.com/CrispyButtermilkChickenSalad/HGX-2.0-WC/blob/c1be0856dafc8df3562a1c1e4513a61a88d0f7f1/Gallery/de576156-35c0-4c2e-be98-bbfa74a7090d.PNG)
 
 View the CAD linked below:
-- [HGX 2.0 WC]((https://a360.co/3xYhkiB))
+- [HGX 2.0 WC](https://a360.co/3xYhkiB)
 
 ## Wiki
 Refer to the [wiki](https://github.com/CrispyButtermilkChickenSalad/HGX-2.0-WC/wiki) for machining instructions and assembly.
